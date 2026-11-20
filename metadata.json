@@ -1,0 +1,8 @@
+{
+  "name": "Smart Classroom",
+  "description": "AI-powered student learning platform with anonymous doubt resolution, interactive quizzes, smart revision flashcards, visual learning labs, and role-based classrooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
